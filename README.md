@@ -12,6 +12,10 @@ You can access the deployed website here:
 **[https://mohammedkhamash.github.io/cloud-beginner-cicd-pages-mohammed/]**
 
 ---
+## 🛠 How to open the site locally
+1. Download the repository files as a ZIP or clone it.
+2. Open the `index.html` file in any web browser (Chrome, Firefox, etc.).
+---
 
 ## ⚙️ CI/CD Pipeline Explanation
 This project uses **GitHub Actions** to automate the deployment process. 
