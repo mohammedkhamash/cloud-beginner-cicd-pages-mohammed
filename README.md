@@ -9,7 +9,7 @@
 
 ## 🚀 Live Website
 You can access the deployed website here: 
-**[ضع رابط موقعك الذي نسخته من إعدادات Pages هنا]**
+**[https://mohammedkhamash.github.io/cloud-beginner-cicd-pages-mohammed/]**
 
 ---
 
